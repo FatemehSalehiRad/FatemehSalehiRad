@@ -1,11 +1,22 @@
-![Description of GIF](https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif)
-
 # 👋 Hi there! I'm Fatemeh Salehirad
 
-**📍 Location:** Tehran, Iran  
-**✉️ Email:** [f.salehirad@ut.ac.ir](mailto:f.salehirad@ut.ac.ir)  
-**🔗 LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/fatemeh-salehi-rad-29a62922b/)  
-**🐱 GitHub:** [My GitHub Profile](https://github.com/FatemehSalehiRad)  
+<table style="border: none; width: 100%;">
+    <tr>
+        <td style="vertical-align: top; width: 50%; border: none;">
+            <div align="left">
+                <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" alt="My Awesome GIF" width="300px">
+            </div>
+        </td>
+        <td style="vertical-align: top; width: 50%; border: none; text-align: right;">
+            <div style="text-align: right;">
+                <p style="margin: 0; font-weight: bold;">📍 Location: <span style="font-weight: normal;">Tehran, Iran</span></p>
+                <p style="margin: 0; font-weight: bold;">✉️ Email: <a href="mailto:f.salehirad@ut.ac.ir" style="text-decoration: none;">f.salehirad@ut.ac.ir</a></p>
+                <p style="margin: 0; font-weight: bold;">🔗 LinkedIn: <a href="https://www.linkedin.com/in/fatemeh-salehi-rad-29a62922b/" style="text-decoration: none;">My LinkedIn Profile</a></p>
+                <p style="margin: 0; font-weight: bold;">🐱 GitHub: <a href="https://github.com/FatemehSalehiRad" style="text-decoration: none;">My GitHub Profile</a></p>
+            </div>
+        </td>
+    </tr>
+</table>
 
 ## 🎓 About Me
 
